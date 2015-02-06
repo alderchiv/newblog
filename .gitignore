@@ -16,4 +16,8 @@
 !/log/.keep
 /tmp
 
+# Ignore generated (rake doc:rails, rake doc:guides) and other documentation.
+/doc
+
+# Ignore IDE .idea directory.
 .idea
