@@ -33,6 +33,14 @@ gem 'nokogiri'
 # Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn.
 gem 'redcarpet', '~> 3.1.2'
 
+# Devise is a flexible authentication solution for Rails based on Warden
+# https://github.com/plataformatec/devise
+gem 'devise'
+
+# Authlogic is a clean, simple, and unobtrusive ruby authentication solution.
+# https://github.com/binarylogic/authlogic
+gem 'authlogic'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
